@@ -1,4 +1,4 @@
-# CI/CD Pipeline with Monitoring
+# End-to-End CI/CD Pipeline with Monitoring on AWS
 
 This project demonstrates a complete DevOps CI/CD pipeline using:
 
