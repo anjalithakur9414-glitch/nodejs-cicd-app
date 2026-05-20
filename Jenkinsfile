@@ -5,7 +5,8 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/anjalithakur9414-glitch/nodejs-cicd-app.git'
+                git branch: 'main',
+                url: 'https://github.com/anjalithakur9414-glitch/nodejs-cicd-app.git'
             }
         }
 
